@@ -1,6 +1,5 @@
 ---
-categories:
-  - related-group
+categories: related-group
 presenter: Mark Underwood
 slides: https://www.slideshare.net/knowlengr/nist-big-data-public-wg-security-and-privacy-v2
 notes: https://docs.google.com/document/d/1H3VOI9-GqRAj_tdPL9sECF1c8t4x_sF1G08PqLzlUWM/edit#heading=h.g2ssty7nv4sz
