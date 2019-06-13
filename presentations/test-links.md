@@ -1,6 +1,7 @@
 ---
 date: "2018-03-23"
 title: v2 Security & Privacy report from NIST Big Data Public WG
+presenter: Mark Underwood
 links:
   video: https://www.youtube.com/watch?v=...s
   slides: https://www.slideshare.net/knowlengr/nist-big-data-public-wg-security-and-privacy-v2
